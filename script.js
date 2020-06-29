@@ -1,4 +1,4 @@
-// Game Snake em sua versão alpha 0.0.30
+// Game Snake em sua versão alpha 0.0.50
 let canvas = document.getElementById("snake");
 let context = canvas.getContext("2d");
 let box = 32;
